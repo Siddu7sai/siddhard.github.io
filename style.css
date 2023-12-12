@@ -1,0 +1,27 @@
+.box{
+    border: 1px solid green;
+    border-radius: 15px;
+    width: 200px;
+    height: 300px;
+    margin: 45px;
+    padding: 5px;
+    background-color: gray;
+}
+.display{
+    margin: 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 95%;
+    height: 10%;
+    background-color:beige;
+    color: black;
+}
+.num{
+    width: 50px;
+    margin: 6px;
+    padding: 5px;
+    display: inline;
+    border: 1px solid black;
+    border-radius: 3px;
+    color:coral;
+}
